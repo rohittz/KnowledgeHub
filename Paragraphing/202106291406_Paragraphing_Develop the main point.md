@@ -1,0 +1,2 @@
+We always start a paragraph with a topic sentence that present the whole idea to the readers. And then if the readers are enthusiast about our idea, they will expect the building process to be concise and to the point. 
+So the author must display the building process of the idea through a bunch of evidences and examples.

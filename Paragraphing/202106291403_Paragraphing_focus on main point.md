@@ -1,0 +1,1 @@
+Always put one question in front of your inner thoughts that what is the message you are trying to get across to your readers?

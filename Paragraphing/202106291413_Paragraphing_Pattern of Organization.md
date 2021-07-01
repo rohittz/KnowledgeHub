@@ -1,0 +1,1 @@
+Pattern of organization refers to the pattern according to which the evidence and examples will be given to develop the idea. In other words, it is the most organized pattern of displaying ideas that will definitely make sense among the readers.
