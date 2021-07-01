@@ -4,7 +4,7 @@ We can refer a stand-alone paragraph as **miniature essay**. It is not a part of
 - Because the stand-alone paragraph appears by itself, it needs a conclusion.  Usually the concluding sentence sums up the paragraph's main point.
 
 
-Though it may look like "stand-alone paragraphs" can't be used in essays, that's not correct. If we can manage to write a good and standard "stand-alone paragraph" following the [[202107011113_Paragraphing_Building  one | standard practice]] we can place it between two other paragraphs in an [[202106282240_Essay | essay]]. But as we have to abide by the [[202106291413_Paragraphing_Pattern of Organization | pattern of organization]] and maintain the [[202106291429_Paragraphing_Coherent Paragraphing | coherency]] between paragraphs, **all you have to do is manipulate the conclusion sentence of the paragraph so that it transitions into the topic sentence of the paragraph that follows it.** ^c3af59
+Though it may look like "stand-alone paragraphs" can't be used in essays, that's not correct. If we can manage to write a good and standard "stand-alone paragraph" following the [[202107011113_Paragraphing_Building  a paragraph | standard practice]] we can place it between two other paragraphs in an [[202106282240_Essay | essay]]. But as we have to abide by the [[202106291413_Paragraphing_Pattern of Organization | pattern of organization]] and maintain the [[202106291429_Paragraphing_Coherent Paragraphing | coherency]] between paragraphs, **all you have to do is manipulate the conclusion sentence of the paragraph so that it transitions into the topic sentence of the paragraph that follows it.** ^c3af59
 
 
 ### A stand-alone paragraph about "Profile of a person"
